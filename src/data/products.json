@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&h=600&fit=crop",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 2847,
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality.",
+    "features": [
+      "30-hour battery life",
+      "Quick Charge (3 min = 3 hours)",
+      "Premium comfort and design",
+      "Multipoint connection",
+      "Speak-to-chat technology"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example1"
+  },
+  {
+    "id": 2,
+    "title": "Apple MacBook Air M2 13.6-inch Laptop",
+    "price": 1199.99,
+    "originalPrice": 1299.99,
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800&h=600&fit=crop",
+    "category": "Electronics",
+    "rating": 4.9,
+    "reviewCount": 1523,
+    "description": "Supercharged by the next-generation M2 chip for incredible performance.",
+    "features": [
+      "M2 8-core CPU",
+      "18-hour battery life", 
+      "13.6-inch Liquid Retina display",
+      "1080p FaceTime HD camera",
+      "MagSafe 3 charging port"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example2"
+  },
+  {
+    "id": 3,
+    "title": "Samsung Galaxy S24 Ultra Smartphone",
+    "price": 1099.99,
+    "originalPrice": 1199.99,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&h=600&fit=crop",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 3652,
+    "description": "The most powerful Galaxy smartphone with advanced AI features.",
+    "features": [
+      "200MP main camera",
+      "S Pen included",
+      "Titanium build",
+      "All-day battery",
+      "Galaxy AI features"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example3"
+  },
+  {
+    "id": 4,
+    "title": "Nike Air Max 270 Running Shoes",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=600&fit=crop",
+    "category": "Fashion",
+    "rating": 4.6,
+    "reviewCount": 892,
+    "description": "Comfortable running shoes with maximum Air cushioning.",
+    "features": [
+      "Max Air unit in heel",
+      "Breathable mesh upper",
+      "Rubber outsole",
+      "Heel pull tab",
+      "Available in multiple colors"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example4"
+  },
+  {
+    "id": 5,
+    "title": "Instant Vortex Plus 4-Quart Air Fryer",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "image": "https://images.unsplash.com/photo-1585237447653-ac5b17ae4d5b?w=800&h=600&fit=crop",
+    "category": "Home",
+    "rating": 4.5,
+    "reviewCount": 1276,
+    "description": "Little to no oil needed, easy cleanup with the perfect size for a growing family.",
+    "features": [
+      "4-quart capacity",
+      "One-touch smart programs",
+      "Little to no oil needed",
+      "Easy cleanup",
+      "Quick cooking"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example5"
+  },
+  {
+    "id": 6,
+    "title": "Apple Watch Series 9 GPS 45mm",
+    "price": 399.99,
+    "originalPrice": 429.99,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&h=600&fit=crop",
+    "category": "Gadgets",
+    "rating": 4.8,
+    "reviewCount": 2341,
+    "description": "The most powerful and intuitive Apple Watch yet.",
+    "features": [
+      "S9 SiP chip",
+      "Double Tap gesture",
+      "All-day 18-hour battery",
+      "Blood Oxygen monitoring",
+      "ECG app"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example6"
+  },
+  {
+    "id": 7,
+    "title": "Levi's 501 Original Fit Jeans",
+    "price": 59.99,
+    "originalPrice": 79.99,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&h=600&fit=crop",
+    "category": "Fashion",
+    "rating": 4.4,
+    "reviewCount": 567,
+    "description": "The original blue jean since 1873. A vintage-inspired fit.",
+    "features": [
+      "100% cotton denim",
+      "Button fly",
+      "Straight leg",
+      "Sits at waist",
+      "Classic 5-pocket styling"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example7"
+  },
+  {
+    "id": 8,
+    "title": "Dyson V15 Detect Cordless Vacuum",
+    "price": 649.99,
+    "originalPrice": 749.99,
+    "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800&h=600&fit=crop",
+    "category": "Home",
+    "rating": 4.7,
+    "reviewCount": 1089,
+    "description": "Reveals invisible dust and adapts suction power automatically.",
+    "features": [
+      "Laser dust detection",
+      "60 minutes run time",
+      "Intelligent suction",
+      "Advanced filtration",
+      "Versatile cleaning"
+    ],
+    "affiliateLink": "https://amazon.com/dp/example8"
+  }
+]
